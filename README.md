@@ -1,5 +1,4 @@
-# ECLIPSE :tw-1f52d:
-
+# ECLIPSE
 Mi nombre es Emiliano Carrizo y soy estudiante de Ingeniería en Informática. Me complace compartir con ustedes la primera versión de este proyecto, llamado Eclipse. Este proyecto comenzó el día 9 de octubre de 2024.
 
 ## Descripción
@@ -19,7 +18,7 @@ Ejecuta el script eclipse.py con Python 3.
 Si deseas ponerse en contacto conmigo, puedes encontrarme en LinkedIn (Emiliano Carrizo) 
 
 
-# Eclipse:tw-1f52d:
+# ECLIPSE
 
 Hello everyone!
 
